@@ -2,7 +2,7 @@
 
 A motorbike racing and brawling game that runs in the browser. Pick a road, pick a weather pattern, and fight your way to first place. The roads include city streets, arctic towns with polar bears, a zombie outbreak and a volcano lava escape.
 
-**Play it:** https://YOUR-USERNAME.github.io/road-race/
+**Play it:** https://kb-tejaswini.github.io/road-race/
 
 ## Controls
 
